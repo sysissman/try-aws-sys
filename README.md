@@ -1,4 +1,6 @@
 This is a try out project for AWS.
+Primary owner/ contributor: S.Sissman
+
 
 ## Available Scripts
 
