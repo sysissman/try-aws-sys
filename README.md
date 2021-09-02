@@ -1,5 +1,5 @@
 This is a try out project for AWS.
-Primary owner/ contributor: S.Sissman
+Primary owner/ contributor: S.Sissman, Company: Community School of Naples
 
 
 ## Available Scripts
