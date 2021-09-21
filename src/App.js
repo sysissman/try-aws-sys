@@ -4,7 +4,7 @@ import DisplayPosts from './components/DisplayPosts'
 import CreatePost from './components/CreatePost';
 import { withAuthenticator } from 'aws-amplify-react'
 
-
+ 
 function App() {
   return (
     <div className="App">
